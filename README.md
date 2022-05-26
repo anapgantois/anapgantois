@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/anapgantois">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anapgantois&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgantois&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=anapgantois&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgantois&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
-  
+ 
+
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="HTML icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
