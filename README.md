@@ -1,9 +1,9 @@
-## 👋🏻 Oláa, eu sou a Ana Gantois!
+## 👋🏻 Hello World! I'm Ana Gantois.
 
 <div align="center">
   <a href="https://github.com/anapgantois">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=anapgantois&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img width="400px" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgantois&layout=compact&langs_count=7&theme=rose_pine"/>
+  <img width="490px" height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapgantois&layout=compact&langs_count=7&theme=rose_pine"/>
 </div>
  
 
@@ -12,7 +12,7 @@
   <img align="center" alt="CSS Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://imagizer.imageshack.com/v2/640x480q90/922/tOkw2B.png">
+  <img align="right" alt="Ana-pic" height="150" style="border-radius:50px;" src="https://imagizer.imageshack.com/v2/640x480q90/922/e2c0Vv.png">
 </div>
   
   ##
